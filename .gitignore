@@ -1,0 +1,10 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+
+# IDE
+.idea/
+
+# Miscellaneous
+.DS_Store
