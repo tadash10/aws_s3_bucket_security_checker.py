@@ -42,4 +42,4 @@ python aws_security_checker.py
 
 Disclaimer
 
-DISCLAIMER: This script interacts with your AWS account and can make changes to your resources. Ensure that you have the necessary permissions and use it responsibly. The script is provided as-is without any warranty. Use at your own risk.
+DISCLAIMER: This script interacts with your AWS account and can make changes to your resources. Ensure that you have the necessary permissions and use it responsibly. The script is provided as-is without any warranty. Use at your own risk..
