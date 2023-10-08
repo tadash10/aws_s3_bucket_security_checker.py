@@ -1,4 +1,4 @@
-# Python
+# Python3
 *.pyc
 __pycache__/
 venv/
