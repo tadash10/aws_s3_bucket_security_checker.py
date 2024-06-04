@@ -1,10 +1,8 @@
-# aws_s3_bucket_security_checker.py
-
-# AWS Security Checker
+# aws_s3_bucket_security_checker.py# AWS Security Checker
 
 This script interacts with your AWS account to perform security checks and actions on AWS resources.
 
-## Installation
+# Installation
 
 1. Ensure you have Python 3 installed on your system.
 2. Clone or download this repository.
