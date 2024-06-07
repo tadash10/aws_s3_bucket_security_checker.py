@@ -1,4 +1,4 @@
-# aws_s3_bucket_security_checker.py# AWS Security Checker
+# AWS Security Checker
 
 This script interacts with your AWS account to perform security checks and actions on AWS resources.
 
