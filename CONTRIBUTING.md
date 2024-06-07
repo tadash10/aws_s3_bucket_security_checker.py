@@ -1,6 +1,6 @@
 # Contributing to AWS Security Checker
 
-We welcome contributions to improve AWS Security Checker. If you have any suggestions, bug fixes, or new features, please follow the guidelines below:
+We welcome contributions to improve AWS Security Checker. If you have any suggestions, bug fixes, or new feeatures, please follow the guidelines below:
 
 ## Issue Reporting
 
