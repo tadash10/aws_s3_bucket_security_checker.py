@@ -1,6 +1,6 @@
 # AWS Security Checker
 
-This script interacts with your AWS account to perform security checks and actions on AWS resources.
+This script interacts with your AWS account to perform security checks and actions on AWS resources. This script make shure that  sensitive information such as  KEYS dont be public. 
 
 # Installation
 
